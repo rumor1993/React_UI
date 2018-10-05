@@ -18,7 +18,7 @@ const data = {
 	datasets: [{
     // 데이터 값 (비율)
     data: [28.79, 21.04, 19.73, 14.83, 7.80, 7.80],
-    
+     
     // 그래프 색상
 		backgroundColor: [
 		'DodgerBlue',
