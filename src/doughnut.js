@@ -21,7 +21,7 @@ const data = {
      
     // 그래프 색상
 		backgroundColor: [
-		'DodgerBlue',
+		'DodgerBlue', 
 		'MediumTurquoise',
         'MediumSpringGreen',
         'Yellow',
